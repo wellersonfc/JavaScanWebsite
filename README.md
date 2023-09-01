@@ -1,16 +1,16 @@
 # JavaScanWebsite
 
 OBJETIVO DO PROJETO
-Encontrar em website a quantidade de repeticoes de uma frases e as palavras dessa frase.
+Encontrar em um website a quantidade de repetições de uma frase, e as palavras dessa frase.
 
-Caracteristicas do projeto:
+Características do projeto:
 - JAVA VERSION
 "17.0.8" 2023-07-18 LTS
 
 Referencia do projeto:
 
-- Resposabel por orientar onde se encontra algumas bibliotecas do Java
+- Responsável por orientar onde se encontra algumas bibliotecas do Java para a execução da tarefa
 https://stackoverflow.com/questions/21886936/scanning-and-displaying-every-word-from-a-website-source-code-java
 
-- Aula rapida de utilizacao de Regex
+- Aula rápida de utilização de Regex
 https://www.youtube.com/watch?v=d2uqo6PhdM4
